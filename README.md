@@ -1,4 +1,4 @@
-[![MasterHead](https://blog.hrflow.ai/content/images/2020/04/Full-Stack-Developer.jpg)]
+![MasterHead](https://blog.hrflow.ai/content/images/2020/04/Full-Stack-Developer.jpg)
 
 <h1 align="center">Hi 👋, I'm Jay Shankar Srivastava</h1>
 <h3 align="center">A passionate full stack developer from India.</h3>
